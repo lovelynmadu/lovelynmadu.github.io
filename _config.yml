@@ -9,12 +9,13 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Your Name / Site Title"
+title                    : "Lovelyn Ogechukwu Madu"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+name                     : &name "Lovelyn Ogechukwu Madu"
+description              : &description "PhD Candidate in Mathematics | Variational Inequalities & Fixed Point Theory | Machine Learning in Biomedical Applications | Aspiring Postdoctoral Researcher | Wife, Mother, and devoted christian"
+url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://lovelynmadu.github.io/[Lovelyn-Madu-Homepage]"
+baseurl                  : "" # the subpath of your site, e.g. "/Lovelyn-Madu-Homepage
+"
 repository               : "academicpages/academicpages.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
@@ -23,20 +24,20 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
+  name             : "Lovelyn O. Madu"
+  pronouns         : "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  employer         : "Nnamdi Azikwe University, Awka, Nigeria; University of Louisiana at Lafayette, USA"
+  uri              : url: "https://lovelynmadu.github.io"
+  email            : "lo.unizik.edu.ng; lovelyn.madu1@louisiana.edu; m.ogechukwu@yahoo.com" 
 
   # Academic websites
-  academia         : # URL
-  arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  academia         : https://profile.unizik.edu.ng/nau3913; https://math.louisiana.edu/about-us/people/graduate-students
+  arxiv            : # URL -  "https://lovelynmadu.github.io/Lovelyn-Madu-Homepage"
+  googlescholar    : "https://scholar.google.com/citations?user=XVEEoJsAAAAJ&hl=en&oi=ao"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0009-0001-5572-9419"
   semantic         : # URL
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
