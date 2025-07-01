@@ -1,7 +1,12 @@
 ---
+{% capture google_verification %}
+<meta name="google-site-verification" content="0VBCLJTKGRSwgQGyddxyBLiUs-OiwP8tWCPqRcjcasY" />
+{% endcapture %}
+{{ google_verification }}
+
 layout: home
 title: "Lovelyn Ogechukwu Madu"
-subtitle: "Mathematician. Mentor. Devoted christian."
+subtitle: "Research Assistant"
 author_profile: true
 permalink: /
 ---
