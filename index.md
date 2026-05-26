@@ -1,7 +1,7 @@
 ---
 layout: home
 title: "Lovelyn Ogechukwu Madu"
-subtitle: "Research Assistant"
+subtitle: "Researcher"
 author_profile: true
 permalink: /
 ---
@@ -13,8 +13,8 @@ permalink: /
 
 Welcome to my academic portfolio.
 
-I am a Research Assistant in Mathematics with a focus on optimization techniques, variational inequalities, and machine learning. My mission is not only to solve problems but to inspire, uplift, and serve with integrity.
+I am a Mathematician with a focus on optimization, variational inequalities, operator theory and machine learning. My mission is not only to solve problems but to inspire, uplift, and serve with integrity.
 
 ✦ 📚 [Curriculum Vitae](files/Lovelyn_Madu_CV.pdf)  
 ✦ 🧠 [Recent Publications](publication/)  
-✦ 💬 [Contact Me](mailto:lovelyn.madu1@louisiana.edu)
+✦ 💬 [Contact Me](mailto:m.ogechukwu@yahoo.com)
